@@ -1,6 +1,10 @@
 # diabetes-predictor
 We will predict if the person has diabetes or not.
 
+## 🎥 Demo Video
+
+[▶️ Click to watch the demo video](demo.mp4)
+
 ---
 
 ### 📁 1. **Diabetes Prediction**
